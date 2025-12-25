@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-**Passionate AI engineer specializing in deep learning, computer vision, and data analytics. Expert in building scalable ML pipelines, developing intelligent systems, and transforming complex data into actionable insights. Experienced in deploying production-ready AI solutions that drive innovation and business growth across diverse industries and applications.**
+**Passionate Frontend Developer focused on crafting modern, responsive, and user-centric web interfaces. Skilled in translating UI/UX designs into clean, performant code using modern frontend technologies. Experienced in building scalable, accessible, and interactive web applications that deliver seamless user experiences and support real-world business needs. Constantly exploring new tools and frameworks to improve performance, usability, and design quality.**
 
 
 </div>
@@ -23,10 +23,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sufyan-work81)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-anayat-ali-90488a292/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sufya6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfoliosufyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadRaffay-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raffay-b64488377/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raffayali005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactmeraffay@gmail.com)
 
 </div>
 
@@ -44,9 +44,9 @@
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![CSS](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 📊 Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -82,9 +82,9 @@ Keras           █████████████████████�
 ### Programming
 ```
 Python          ████████████████████████████████████████ 95%
-R               ████████████████████████████████         80%
-SQL             ████████████████████████████████████     85%
-JavaScript      ███████████████████████████████          75%
+HTML               ████████████████████████████████         80%
+CSS             ████████████████████████████████████     85%
+WordPress      ███████████████████████████████          75%
 ```
 
 ### Data Analytics
@@ -118,11 +118,11 @@ python           █████████████████████
 
 <div align="center">
 
-🔭 **Currently working on:** Advanced Deep Learning Projects  
+🔭 **Currently working on:** Modern & Responsive Web Applications  
 🌱 **Learning:** Computer Vision & NLP  
-👯 **Looking to collaborate on:** AI/ML Open Source Projects  
-💬 **Ask me about:** Machine Learning, Data Science, Python  
-⚡ **Fun fact:** I debug with print statements and I'm not ashamed!
+👯 **Looking to collaborate on:** Frontend & Open-Source Web Projects  
+💬 **Ask me about:** HTML, CSS, Python, Responsive Design  
+⚡ **Fun fact:** I can spend hours perfecting UI details—and I love it 😄
 
 </div>
 
